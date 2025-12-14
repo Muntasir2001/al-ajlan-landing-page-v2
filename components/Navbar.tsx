@@ -2,7 +2,7 @@ import NavbarLink from "./NavbarLink";
 
 const Navbar = () => {
   return (
-    <div className="w-full bg-white px-24 py-6 flex items-center justify-between md:flex-row flex-col">
+    <div className="w-full bg-white px-5 py-3 md:px-24 md:py-6 flex items-center justify-between md:flex-row flex-col">
       <h1 className="text-2xl font-extrabold uppercase text-black">
         AlAjlan & AlHusaiyin
       </h1>
